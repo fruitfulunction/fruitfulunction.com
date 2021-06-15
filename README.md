@@ -1,2 +1,1 @@
-# fruitfulunction.com
-Website repository
+Welcome to Fruitfulunction!
